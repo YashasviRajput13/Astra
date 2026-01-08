@@ -1,6 +1,7 @@
 🌟 ASTRA — Your Silent Guardian
 
-[portrait-of-a-strong-woman-in-half-turn-avatar](https://github.com/user-attachments/assets/f50c41d7-65e2-4b89-ab6c-a09a7ae14eac)
+![portrait-of-a-strong-woman-in-half-turn-avatar](https://github.com/user-attachments/assets/32a120c1-b31f-4c3a-a775-5a0683f552e9)
+
 
 ASTRA is a women-centric safety platform that enables instant, discreet emergency response through a web app and wearable integration.
 Built for moments when seconds matter and speaking or unlocking a phone isn’t possible.
