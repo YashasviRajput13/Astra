@@ -1,0 +1,9 @@
+{
+  "name": "ASTRA - Safety SOS Platform",
+  "description": "A high-security, instant-response women's safety platform enabling real-time SOS alerts, device pairing, and emergency contact coordination.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
